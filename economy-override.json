@@ -1,0 +1,146 @@
+{
+  "economy-override": {
+    "economy-reset-time-hours": "1",
+    "prices-randomization-time-hours": "-1.0",
+    "tradeable-rotation-time-ingame-hours-min": "24.0",
+    "tradeable-rotation-time-ingame-hours-max": "48.0",
+    "tradeable-rotation-time-of-day-min": "8.0",
+    "tradeable-rotation-time-of-day-max": "16.0",
+    "fully-restock-tradeable-hours": "2.0",
+    "trader-funds-change-rate-per-hour-multiplier": "1.0",
+    "prices-subject-to-player-count": "1",
+    "gold-price-subject-to-global-multiplier": "1",
+    "economy-logging": "1",
+    "traders-unlimited-funds": "1",
+    "traders-unlimited-stock": "1",
+    "only-after-player-sale-tradeable-availability-enabled": "1",
+    "tradeable-rotation-enabled": "1",
+    "enable-fame-point-requirement": "1",
+    "traders": {
+      "A_0_Armory": [
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "5000",
+          "base-sell-price": "2500",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Weapon_AK47",
+          "base-purchase-price": "20000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_DEagle_50Gold",
+          "base-purchase-price": "20000",
+          "base-sell-price": "10000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
+      "A_0_BoatShop": [],
+      "A_0_Hospital": [],
+      "A_0_Mechanic": [],
+      "A_0_Saloon": [],
+      "A_0_Trader": [],
+      "B_4_Armory": [
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "5000",
+          "base-sell-price": "2500",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Weapon_AK47",
+          "base-purchase-price": "20000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_DEagle_50Gold",
+          "base-purchase-price": "20000",
+          "base-sell-price": "10000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
+      "B_4_BoatShop": [],
+      "B_4_Hospital": [],
+      "B_4_Mechanic": [],
+      "B_4_Saloon": [],
+      "B_4_Trader": [],
+      "C_2_Armory": [
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "5000",
+          "base-sell-price": "2500",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Weapon_AK47",
+          "base-purchase-price": "20000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_DEagle_50Gold",
+          "base-purchase-price": "20000",
+          "base-sell-price": "10000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
+      "C_2_BoatShop": [],
+      "C_2_Hospital": [],
+      "C_2_Mechanic": [],
+      "C_2_Saloon": [],
+      "C_2_Trader": [],
+      "Z_3_Armory": [
+        {
+          "tradeable-code": "BP_Frag_Grenade",
+          "base-purchase-price": "5000",
+          "base-sell-price": "2500",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_Weapon_AK47",
+          "base-purchase-price": "20000",
+          "base-sell-price": "5000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "-1"
+        },
+        {
+          "tradeable-code": "BP_DEagle_50Gold",
+          "base-purchase-price": "20000",
+          "base-sell-price": "10000",
+          "delta-price": "1",
+          "can-be-purchased": "true",
+          "required-famepoints": "20"
+        }
+      ],
+      "Z_3_BoatShop": [],
+      "Z_3_Hospital": [],
+      "Z_3_Mechanic": [],
+      "Z_3_Saloon": [],
+      "Z_3_Trader": []
+    }
+  }
+}
