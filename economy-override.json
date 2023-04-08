@@ -36,9 +36,9 @@
         },
         {
           "tradeable-code": "BP_DEagle_50Gold",
-          "base-purchase-price": "20000",
+          "base-purchase-price": "30000",
           "base-sell-price": "10000",
-          "delta-price": "1",
+          "delta-price": "-1",
           "can-be-purchased": "true",
           "required-famepoints": "20"
         }
